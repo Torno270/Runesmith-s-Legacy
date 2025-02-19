@@ -1,5 +1,6 @@
 {
-  "itemGroup.examplemod": "Example Mod Tab",
-  "block.examplemod.example_block": "Example Block",
-  "item.examplemod.example_item": "Example Item"
+  "enchantment.runesmithslegacy.instinctive_release": "Instinctive Release",
+  "enchantment.runesmithslegacy.instinctive_release.desc": "Automatically releases a fully drawn bow.",
+  "enchantment.runesmithslegacy.versatility": "Versatility",
+  "enchantment.runesmithslegacy.versatility.desc": "Mimics the effectiveness of the proper tool for each block."
 }

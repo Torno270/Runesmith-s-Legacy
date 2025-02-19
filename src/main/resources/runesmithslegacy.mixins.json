@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.torno.runesmithslegacy.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlayerMixin",
+    "PlayerAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
